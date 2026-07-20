@@ -1,5 +1,9 @@
 # voice-clone
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-voice%20cloning-000000)
+![TTS](https://img.shields.io/badge/F5--TTS%20%7C%20Edge--TTS-comparison-orange)
+
 R&D scripts comparing voice-cloning/TTS approaches for quality and latency — ElevenLabs, F5-TTS and Edge-TTS side by side.
 
 ## Scripts
